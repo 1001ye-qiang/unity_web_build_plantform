@@ -1,0 +1,1 @@
+com.yhkd.jztkc|1.0.0.10|10010|BEHAVIAC_RELEASE|user.keystore|yhkd_302|zjtkc|yhkd_302
